@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(153, 0, 255);
+    padding: 1rem;
+}
+
+header > ul > li > a.nav-link {
+    color:aliceblue;
+}
+
+section {
+    height: 70vh;
+}
+
+footer {
+    background-color: rgb(173, 85, 255);
+}
